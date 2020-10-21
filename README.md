@@ -4,7 +4,7 @@ Prof Nitin Patil(Department of Computer Science, Savitribai Phule Pune Universit
 This Project is dynamic web project and written in JSP.
 This project is analogous to Management of Hostels in Savitribai Phule Pune University, Pune.
 
-# Software Requrement for this project
+# Software Requirement for this project
 1.JDK8
 2.Apache Tomcat 8.5 Server (or 8.5+)
 3.Mysql-server 5.7.30 (or 5.7+)
